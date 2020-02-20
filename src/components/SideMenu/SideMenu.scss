@@ -1,0 +1,27 @@
+.side-menu {
+  display: flex;
+  flex-flow: column nowrap;
+  list-style-type: none;
+  color: rgb(104,104,104);
+  &__element {
+    text-decoration: none;
+    width: 229px;
+    font-size: 30px;
+    padding: 10px;
+    border: 2px solid transparent;
+    white-space: nowrap;
+    &:first-letter {
+      text-transform: uppercase;
+    }
+    &.focused {
+      color: #fff;
+      border-radius: 5px;
+      border: 2px solid rgb(152, 99, 57);
+    }
+    .arrow {
+      height: 20px;
+      vertical-align: center;
+    }
+  }
+}
+

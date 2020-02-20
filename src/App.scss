@@ -1,0 +1,25 @@
+
+.container {
+  display: grid;
+  grid-gap: 30px;
+  grid-template:
+          'header header header header header header header'
+          'menu main main main details details details'
+          'menu  main main main details details details';
+}
+
+.navigation {
+  grid-area: menu;
+}
+
+.main-header {
+  grid-area: header;
+}
+
+.film-list {
+  grid-area: main;
+}
+
+.film-details {
+  grid-area: details;
+}
