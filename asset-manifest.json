@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vodworks/static/css/main.dd7a061c.chunk.css",
+    "main.js": "/vodworks/static/js/main.299b0daa.chunk.js",
+    "main.js.map": "/vodworks/static/js/main.299b0daa.chunk.js.map",
+    "runtime-main.js": "/vodworks/static/js/runtime-main.abda0e66.js",
+    "runtime-main.js.map": "/vodworks/static/js/runtime-main.abda0e66.js.map",
+    "static/js/2.de95529d.chunk.js": "/vodworks/static/js/2.de95529d.chunk.js",
+    "static/js/2.de95529d.chunk.js.map": "/vodworks/static/js/2.de95529d.chunk.js.map",
+    "index.html": "/vodworks/index.html",
+    "precache-manifest.93e5a125a2259bfe6d169b99197876f7.js": "/vodworks/precache-manifest.93e5a125a2259bfe6d169b99197876f7.js",
+    "service-worker.js": "/vodworks/service-worker.js",
+    "static/css/main.dd7a061c.chunk.css.map": "/vodworks/static/css/main.dd7a061c.chunk.css.map",
+    "static/js/2.de95529d.chunk.js.LICENSE.txt": "/vodworks/static/js/2.de95529d.chunk.js.LICENSE.txt",
+    "static/media/add.svg": "/vodworks/static/media/add.408bb555.svg",
+    "static/media/arrow.svg": "/vodworks/static/media/arrow.576b3fa7.svg",
+    "static/media/eye.svg": "/vodworks/static/media/eye.98ea0c65.svg",
+    "static/media/play.svg": "/vodworks/static/media/play.317ebf2b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abda0e66.js",
+    "static/js/2.de95529d.chunk.js",
+    "static/css/main.dd7a061c.chunk.css",
+    "static/js/main.299b0daa.chunk.js"
+  ]
+}
